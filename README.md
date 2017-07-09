@@ -1,4 +1,5 @@
 # HvComponents
+A collection of Angular based innovative reusable components.
 
 ## Navigation Bars
     - Top Navbar. For mobile converts to floating menu bar
